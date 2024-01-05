@@ -1,22 +1,40 @@
-# Bem-vindo ao Meu Perfil do GitHub!
+# Olá, eu sou [Seu Nome]! 👋
+
+Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras usando tecnologias Java e o ecossistema Spring.
 
 ## Sobre Mim
-Olá! Eu sou o Pedro Neri, apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos desafios e aprendizados na área da programação.
+- 🌱 Atualmente, estou aprimorando minhas habilidades em Spring Boot, Spring MVC, e Spring Data JPA.
+- 💼 Trabalho como desenvolvedor full stack, utilizando Java no back-end e várias tecnologias no front-end.
+- 🔭 Estou constantemente explorando novas tecnologias e frameworks.
+- 📚 Estou sempre aprendendo e compartilhando conhecimento com a comunidade.
 
-- 🌱 Atualmente, estou aprendendo [insira o que você está estudando atualmente].
-- 👯 Estou procurando colaborar em projetos open source.
-- 💬 Pergunte-me sobre [insira áreas ou tecnologias que você domina].
-- 📫 Como me alcançar: [insira suas redes sociais, e-mail ou outros contatos relevantes].
+## Habilidades e Ferramentas
+### Back-end
+- Java (Spring Boot, Spring MVC, Spring Data JPA)
+- RESTful APIs
+- Banco de Dados Relacionais (MySQL, PostgreSQL, etc.)
+- Banco de Dados NoSQL (MongoDB, Redis, etc.)
+
+### Front-end
+- HTML5, CSS3, JavaScript
+- Frameworks JavaScript (Angular, React, Vue.js)
+- Ferramentas de pré-processamento CSS (Sass, Less)
+- Bootstrap, Materialize CSS
+
+### Ferramentas e Outras Habilidades
+- Git (Controle de Versão)
+- Docker
+- Testes (JUnit, Mockito)
+- Metodologias Ágeis (Scrum, Kanban)
 
 ## Projetos Destacados
 - [Nome do Projeto](link para o projeto): Breve descrição do projeto.
 - [Nome do Projeto](link para o projeto): Breve descrição do projeto.
 
-## Linguagens e Ferramentas
-- Linguagem 1
-- Linguagem 2
-- Ferramenta 1
-- Ferramenta 2
+## Contato
+- [LinkedIn](seu link do LinkedIn)
+- [Seu Site/Blog](seu link)
+- [Email](seu email)
 
 ## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Git-PedroNeri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
