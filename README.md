@@ -8,7 +8,7 @@ Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras usand
 - 🔭 Estou constantemente explorando novas tecnologias e frameworks.
 - 📚 Estou sempre aprendendo e compartilhando conhecimento com a comunidade.
 
-- ```public class Apresentacao {
+- ````java public class Apresentacao {
     public static void main(String[] args) {
         apresentar();
     }
@@ -24,7 +24,7 @@ Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras usand
         System.out.println("Vamos construir algo incrível juntos!");
     }
 }
-```
+
 
 ## Habilidades e Ferramentas
 ### Back-end
