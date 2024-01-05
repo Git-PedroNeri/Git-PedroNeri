@@ -1,17 +1,42 @@
-# ````java public class Apresentacao {
-    public static void main(String[] args) {
-        apresentar();
-    }
+# Welcome to My Portfolio!
 
-    static void apresentar() {
-        System.out.println("Olá! Sou Pedro Neri um desenvolvedor em constante busca por soluções criativas.");
-        System.out.println("Sou apaixonado por transformar linhas de código em projetos impactantes e funcionais.");
-        System.out.println("Minhas habilidades incluem:");
-        System.out.println("- Desenvolvimento Full Stack com foco em Java e o ecossistema Spring;");
-        System.out.println("- Construção de RESTful APIs para conectar sistemas de forma eficiente;");
-        System.out.println("- Implementação de interfaces responsivas e dinâmicas utilizando frameworks modernos.");
-        System.out.println("Estou sempre aprendendo e aprimorando minhas habilidades para criar tecnologia com propósito.");
-        System.out.println("Vamos construir algo incrível juntos!");
+## About Me
+Hello! I'm [Your Name], a passionate full-stack developer enthusiastic about technology and creating innovative solutions.
+
+- 🌱 Currently, I'm honing my skills in [Technology or Framework].
+- 💼 I work as a [Job Title or Area of Expertise].
+- 🔭 I'm constantly exploring new technologies and frameworks.
+- 📚 I'm always learning and sharing knowledge with the community.
+
+## Featured Projects
+- [Project Name](link to project): Brief project description.
+- [Project Name](link to project): Brief project description.
+
+## Technologies
+Here are some of the technologies I work with:
+- Java (Spring Boot, Spring MVC, Spring Data JPA)
+- HTML5, CSS3, JavaScript
+- JavaScript Frameworks (React, Angular, Vue.js)
+- Relational and NoSQL Databases
+- Git, Docker, Testing (JUnit, Mockito)
+- Agile Methodologies (Scrum, Kanban)
+
+## How to Reach Me
+- [LinkedIn](your LinkedIn link)
+- [Portfolio](link to your portfolio)
+- [Email](your email)
+
+## GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Code Samples
+Here are a few code snippets demonstrating my skills:
+
+```java
+// Java Example
+public class Example {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
     }
 }
 
