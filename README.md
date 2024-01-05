@@ -1,12 +1,19 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+# ````java public class Apresentacao {
+    public static void main(String[] args) {
+        apresentar();
+    }
 
-
-### Hi there 👋
-
-
-#### I'm Pedro Neri
-#### I'm from Brazil
-#### I'm a Java Back-end Developer
+    static void apresentar() {
+        System.out.println("Olá! Sou Pedro Neri um desenvolvedor em constante busca por soluções criativas.");
+        System.out.println("Sou apaixonado por transformar linhas de código em projetos impactantes e funcionais.");
+        System.out.println("Minhas habilidades incluem:");
+        System.out.println("- Desenvolvimento Full Stack com foco em Java e o ecossistema Spring;");
+        System.out.println("- Construção de RESTful APIs para conectar sistemas de forma eficiente;");
+        System.out.println("- Implementação de interfaces responsivas e dinâmicas utilizando frameworks modernos.");
+        System.out.println("Estou sempre aprendendo e aprimorando minhas habilidades para criar tecnologia com propósito.");
+        System.out.println("Vamos construir algo incrível juntos!");
+    }
+}
 
 <!--
 <div>
