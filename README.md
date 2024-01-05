@@ -1,4 +1,4 @@
-# Olá, eu sou [Pedro Neri]! 👋
+# Olá, eu sou Pedro Neri! 👋
 
 Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras usando tecnologias Java e o ecossistema Spring.
 
@@ -7,6 +7,24 @@ Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras usand
 - 💼 Trabalho como desenvolvedor full stack, utilizando Java no back-end e várias tecnologias no front-end.
 - 🔭 Estou constantemente explorando novas tecnologias e frameworks.
 - 📚 Estou sempre aprendendo e compartilhando conhecimento com a comunidade.
+
+- ```public class Apresentacao {
+    public static void main(String[] args) {
+        apresentar();
+    }
+
+    static void apresentar() {
+        System.out.println("Olá! Eu sou um desenvolvedor em constante busca por soluções criativas.");
+        System.out.println("Sou apaixonado por transformar linhas de código em projetos impactantes e funcionais.");
+        System.out.println("Minhas habilidades incluem:");
+        System.out.println("- Desenvolvimento Full Stack com foco em Java e o ecossistema Spring;");
+        System.out.println("- Construção de RESTful APIs para conectar sistemas de forma eficiente;");
+        System.out.println("- Implementação de interfaces responsivas e dinâmicas utilizando frameworks modernos.");
+        System.out.println("Estou sempre aprendendo e aprimorando minhas habilidades para criar tecnologia com propósito.");
+        System.out.println("Vamos construir algo incrível juntos!");
+    }
+}
+```
 
 ## Habilidades e Ferramentas
 ### Back-end
