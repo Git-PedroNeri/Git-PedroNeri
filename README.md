@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou [Pedro Neri]! 👋
 
 Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras usando tecnologias Java e o ecossistema Spring.
 
@@ -32,9 +32,8 @@ Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras usand
 - [Nome do Projeto](link para o projeto): Breve descrição do projeto.
 
 ## Contato
-- [LinkedIn](seu link do LinkedIn)
-- [Seu Site/Blog](seu link)
-- [Email](seu email)
+- [LinkedIn](www.linkedin.com/in/pedropauloneri)
+- [Email](neri.pedro@icloud.com)
 
 ## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Git-PedroNeri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
