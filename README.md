@@ -1,16 +1,22 @@
-### Hi there 👋
+# Bem-vindo ao Meu Perfil do GitHub!
 
-<!--
-**Git-PedroNeri/Git-PedroNeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Olá! Eu sou o Pedro Neri, apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos desafios e aprendizados na área da programação.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente, estou aprendendo [insira o que você está estudando atualmente].
+- 👯 Estou procurando colaborar em projetos open source.
+- 💬 Pergunte-me sobre [insira áreas ou tecnologias que você domina].
+- 📫 Como me alcançar: [insira suas redes sociais, e-mail ou outros contatos relevantes].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+- [Nome do Projeto](link para o projeto): Breve descrição do projeto.
+- [Nome do Projeto](link para o projeto): Breve descrição do projeto.
+
+## Linguagens e Ferramentas
+- Linguagem 1
+- Linguagem 2
+- Ferramenta 1
+- Ferramenta 2
+
+## Estatísticas do GitHub
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Git-PedroNeri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
