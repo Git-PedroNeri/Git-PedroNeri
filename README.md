@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 -->
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Git-PedroNeri&show_icons=true&theme=radical)](https://github.com/Git-PedroNeri/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Git-PedroNeri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
